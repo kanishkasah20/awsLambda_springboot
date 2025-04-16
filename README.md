@@ -137,7 +137,10 @@ public class StreamLambdaHandler implements RequestStreamHandler {
    ```bash
    mvn clean package
    ```
-![Screenshot 2025-04-13 233147](https://github.com/user-attachments/assets/ffdd7d22-0f41-47d2-b6f3-f0b5054c8112) 
+![Screenshot 2025-04-15 123725](https://github.com/user-attachments/assets/2af75d81-9d18-4b40-a1b3-f1c93f6b40f0)
+
+![Screenshot 2025-04-15 130040](https://github.com/user-attachments/assets/915f5e36-4c2f-404d-a5af-f393b8584e02)
+
 
 2. **Create Lambda Function (AWS Console)**
    - In the AWS Console, create a function as per your project requirements.
@@ -164,7 +167,7 @@ public class StreamLambdaHandler implements RequestStreamHandler {
 The deployed API is accessible at:
 
 👉 [`https://l0lde21y33.execute-api.us-east-1.amazonaws.com/Demoapi/ping`](https://l0lde21y33.execute-api.us-east-1.amazonaws.com/Demoapi/ping)
-![Screenshot 2025-04-13 235042](https://github.com/user-attachments/assets/119c1615-1daa-4592-a39f-eac737ab78b8)
+!
 
 
 
